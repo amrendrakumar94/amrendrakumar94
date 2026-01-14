@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend Software Engineer with 2+ years of experience building scalable systems and microservices using<br>Java and Spring Boot. Skilled in RESTful APIs, event-driven architectures (Kafka, WebSockets),<br>Redis, and MySQL optimization, delivered production systems and improved performance across teams.
+Software Development Engineer with 2+ years of experience building scalable systems and microservices using<br>Java and Spring Boot. Skilled in RESTful APIs, event-driven architectures (Kafka, WebSockets),<br>Redis, and MySQL optimization, delivered production systems and improved performance across teams.
 
 
 ## 🌐 Socials:
